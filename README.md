@@ -4,7 +4,7 @@ This is the guide mentioned in the following video:
 
 How to install Gmsh, gcc and CMake? | Neper installation part - 2
 
-Link of video:
+Link of video: https://youtu.be/jlzpFnec7jk
 
 Email: notrealengineering@gmail.com
 
